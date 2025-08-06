@@ -1,1 +1,2 @@
-# _**DO NOT OPEN, THIS IS JUST FOR FUN**_
+# ADMISSION PREDICTOR USING MULTIPLE LINEAR REGRESSION
+### URL : https://admissionkarwado.streamlit.app/
